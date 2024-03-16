@@ -1,3 +1,3 @@
 # flutter_rick_and_morty
 
-![alt text](https://github.com/ChinmayNanaware/FlutterNewsAPI/blob/main/Screenshots/Screenshot%202020-12-24%20at%202.51.55%20PM.png?raw=true)
+![alt text](https://github.com/ChinmayNanaware/flutter_rick_and_morty/blob/main/flutter_rick_and_morty/screenshots/Screenshot_1710607613.png?raw=true)
